@@ -1,0 +1,3 @@
+# github_basic
+<h1>Learning basic github</h1>
+<p>GitHub is a premier cloud-based platform and social network for software developers, hosting over 420 million repositories. It allows individuals and teams to store, manage, track changes to code, and collaborate on projects using Git version control. GitHub offers tools like bug tracking, task management, CI/CD (GitHub Actions), and AI-powered development via Copilot.</p>
